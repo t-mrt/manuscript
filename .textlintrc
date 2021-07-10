@@ -1,0 +1,8 @@
+{
+  "filters": {},
+  "rules": {
+    "no-dropping-the-ra": false,
+    "no-mix-dearu-desumasu": false,
+    "preset-bengo4": true
+  }
+}
